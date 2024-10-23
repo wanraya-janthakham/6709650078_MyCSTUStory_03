@@ -1,0 +1,320 @@
+
+h1{
+    width: 100;
+    height: 100;
+    background-color: brown;
+    color: rgb(238, 203, 6);
+    
+    
+}
+.classh2{
+   color: rgb(53, 51, 51);
+}
+
+div{
+    background-color: rgb(238, 203, 6);
+    color: rgb(146, 146, 146);
+}
+
+.toeyh2{
+    text-align: center;
+    
+}
+
+.moueh2{
+    color: rgb(53, 51, 51);
+    text-align: center;
+    border-radius: 10px ;
+    border:solid rgb(146, 146, 146);
+    background-color: rgb(255, 251, 251);
+}
+
+.img1{
+    text-align: center;
+}
+
+.cstu39{
+    color: rgb(53, 51, 51);
+    text-align: center;
+    border-radius: 10px ;
+    border:solid rgb(124, 17, 17);
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.cs1{
+    background-color: rgb(204, 201, 201);
+    color: black;
+}
+
+.div2{
+    color: rgb(53, 51, 51);
+    text-align: center;
+    border-radius: 10px ;
+    border:solid rgb(204, 201, 201);
+    background-color: rgb(204, 201, 201);
+    
+}
+
+    
+video{
+    width: 25%;
+    height: auto;
+    
+
+}
+dt{
+    font-weight: bold;
+}
+
+dl,dd{
+    font-size: 0.9rem;
+}
+
+dd{
+    margin-bottom: 1em;
+}
+
+ins{
+    padding-left: none;
+    background-color: #dcfcbc;
+}
+
+blockquote{
+    padding-left: 15px;
+    border-left: 3px solid #d7d7db;
+    font-size: 1rem;
+}
+
+.route{
+    color: rgb(210, 243, 21);
+    text-align: center;
+    border-radius: 20px ;
+    border:solid rgb(160, 160, 221);
+    background-color: rgb(23, 89, 151);
+    border: 5px;
+    padding: 5px;
+    
+    
+
+}
+
+.up1{
+    background-color: rgb(204, 201, 201);
+    color: black;
+    border: 5px;
+    padding: 5px;
+    
+
+
+}
+
+.up2{
+    background-color: rgb(204, 201, 201);
+    color: black;
+    border: 5px;
+    padding: 5px;
+    
+
+}
+
+.up3{
+    background-color: rgb(204, 201, 201);
+    color: black;
+    border: 5px;
+    padding: 5px;
+
+}
+
+.up4{
+    background-color: rgb(204, 201, 201);
+    color: black;
+    border: 5px;
+    padding: 5px;
+
+
+}
+
+.year1{
+    color: rgb(0, 0, 0);
+     
+
+}
+
+.year2{
+    color: black;
+
+}
+
+.year3{
+    color: black;
+
+}
+
+.year4{
+    color: black;
+
+
+}
+.tell{
+    color: rgb(0, 255, 76);
+    text-align: center;
+    border-radius: 20px ;
+    border:solid rgb(160, 160, 221);
+    background-color: rgb(30, 15, 112);
+    border: 5px;
+    padding: 5px;
+    font-size: 25px;
+
+
+}
+.expect{
+    color: rgb(53, 51, 51);
+   
+    
+}
+
+.daty{
+    color: rgb(53, 51, 51);
+    text-align: center;
+    border-radius: 10px ;
+    border:solid rgb(204, 201, 201);
+    background-color: rgb(204, 201, 201);
+}
+
+pre{
+    color: rgb(207, 14, 14); 
+}
+
+
+details{
+    color: rgb(0, 0, 0);
+    border-radius: 0px ;
+    border:solid rgb(229, 162, 162);
+    background-color: rgb(189, 7, 7);
+    padding: 2.5px;
+
+}
+
+header{
+    border-radius: px ;
+    border:solid rgb(204, 201, 201);
+    background-color: rgb(204, 201, 201);
+
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial,  sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    background-color:  #4CAF50;
+    color: white;
+    padding:  10px 0;
+}
+
+nav {
+    text-align: center;
+    margin: 10px 0;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #333;
+}
+
+section {
+    margin: 20px 0;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.profile img {
+    width: 350px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.details h2 {
+    font-size: 1.2rem;
+}
+
+blockquote {
+    background: #f9f9f9;
+    border-left: 10px solid #ccc;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+}
+
+blockquote ol {
+    list-style: none;
+    padding: 0;
+}
+
+blockquote li{
+    margin: 5px 0;
+    font-style: italic;
+}
+
+blockquote ins {
+    text-decoration: none;
+    background-color: #c8e6c9 ;
+    padding: 5px;
+}
+
+
+.goals {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 20px;
+    font-weight: bold;
+    color: #333;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* Multi-column layout for desktop screen */
+@media only screen and (max-width: 1024px) {
+    .profile {
+        flex-direction: flex;
+        text-align: row;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    /* การจัดเรียงต่อกันแบบแนวตั้ง */
+    .container {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    /* จัดเรียงแนวตั้งสำหรับจอเล็ก */
+    .container {
+      display: flex;
+      width: 100%;
+    }
+  } 
+
+
+
+
